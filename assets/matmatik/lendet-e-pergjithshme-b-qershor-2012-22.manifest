@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2416981019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ee6c36398e11a59f708a17ec418d94d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2cc3ac1bf2df5d6fac8fdddb3e52ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000882.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/108.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/91.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/93.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000872.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/107.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000867.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/94.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/96.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000877.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000863.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000868.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/99.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000883.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/115.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000875.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000870.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/114.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000856.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/92.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000854.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000880.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000878.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000873.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000862.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000874.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/98.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000859.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000871.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000858.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000866.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000861.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000855.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000876.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000860.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/106.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000857.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/pikat.txt
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/104.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/117.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000865.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000869.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000864.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000879.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/000881.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/119.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/120.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/113.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/105.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/z/112.jpg
+Dependencies: []

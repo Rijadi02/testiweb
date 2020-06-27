@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2890246634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b7485efc82f1e31ef026dc732d895fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2cc3ac1bf2df5d6fac8fdddb3e52ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/57.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/45.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001499.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001511.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001510.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001514.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/56.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001504.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/pikat.txt
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/53.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/44.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001512.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001505.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001516.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/50.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/54.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001503.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001500.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001502.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001507.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/46.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001515.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001518.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/51.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/52.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001513.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001508.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/58.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001506.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001509.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001501.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/001517.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Gjimnazi-Natyror-A-Gusht-2008-56/z/48.jpg
+Dependencies: []

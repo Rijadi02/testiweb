@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2751346741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83d99318ba335272517bdf331273a0c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001421.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001431.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001427.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001426.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001430.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001433.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001429.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001422.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001436.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001419.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001424.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001439.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001437.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001416.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001423.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001425.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001434.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001417.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001418.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001420.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001435.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001428.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001432.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001438.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Matematike-Informatike-A-Gusht-2008-50/001415.jpg
+Dependencies: []

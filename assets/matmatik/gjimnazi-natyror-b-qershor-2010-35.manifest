@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3135417074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6d9d39ee58ff8aa215fa6aa750088a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2cc3ac1bf2df5d6fac8fdddb3e52ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001178.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001179.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/48.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001174.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001190.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001191.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001177.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/46.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001181.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001192.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001180.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/45.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001183.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001175.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/50.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001187.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/60.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001176.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/48.1.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001173.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/44.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001186.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001188.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/57.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001185.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001189.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/pikat.txt
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001184.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/001182.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2010/Gjimnazi-Natyror-B-Qershor-2010-35/z/49.jpg
+Dependencies: []

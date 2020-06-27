@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 3804912430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a5968b62055e6a6a0c00e7190df5d0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/ushtro/biologji/001646.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001633.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001617.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001655.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001700.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001638.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001702.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001621.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001620.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001615.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001660.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001641.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001690.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001701.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001644.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001692.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001706.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001650.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001636.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001703.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001691.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001673.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001694.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001623.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001677.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001686.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001622.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001676.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001651.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001637.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001697.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001624.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001619.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001698.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001616.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001647.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001709.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001679.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001682.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001665.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001710.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001693.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001639.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001688.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001666.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001662.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001711.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001661.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001685.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001649.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001678.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001625.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001640.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001670.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001664.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001642.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001643.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001705.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001683.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001707.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001614.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001611.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001658.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001652.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001656.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001689.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001627.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001653.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001681.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001663.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001668.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001654.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001699.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001659.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001631.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001671.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001675.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001613.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001630.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001667.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001695.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001687.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001628.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001612.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001629.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001684.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001635.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001696.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001632.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001669.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001708.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001618.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001645.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001674.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001626.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001680.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001634.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001657.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001704.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001672.png
+- Assets/Resources/TestetPhoto/ushtro/biologji/001648.png
+Dependencies: []

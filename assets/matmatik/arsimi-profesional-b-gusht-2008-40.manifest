@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1736345113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41e7965d3be7e6f418287729981e6a33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2cc3ac1bf2df5d6fac8fdddb3e52ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/55.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001273.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/50.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001286.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001290.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001275.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/53.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001281.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001288.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001280.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/57.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001272.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001274.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001282.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/56.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001285.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/59.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/51.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/65.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001276.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001278.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001279.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001277.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001287.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/61.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001289.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001283.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001284.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/001271.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/58.jpg
+- Assets/Resources/TestetPhoto/photos of tests-math/math/2008/Arsimi-Profesional-B-Gusht-2008-40/z/pikat.txt
+Dependencies: []

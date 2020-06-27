@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1052781628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9511d5903e77ac55c57175fe1dc4af67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001612.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001606.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001592.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001611.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001598.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001609.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001613.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001593.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001596.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001600.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001608.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001594.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001605.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001597.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001602.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001591.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001614.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001601.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001604.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001607.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001603.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001610.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001599.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001595.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2008/Gjimnazi-Natyror-B-Qershor-2008-41/001590.jpg
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1023676952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5d2d4ba6e538ca7259f4cb1c063f092
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000924.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000910.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000921.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000922.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000918.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000916.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000909.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000919.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000912.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000915.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000927.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000925.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000911.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000923.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000926.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000917.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000913.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000920.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000928.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Pergjithshem-B-Qershor-2010-27/000914.jpg
+Dependencies: []

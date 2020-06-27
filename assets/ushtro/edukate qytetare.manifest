@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 384189487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc7a2392538a298f0e94afdf9c558d71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000881.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000853.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000790.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000860.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000838.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000851.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000800.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000818.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000808.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000795.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000864.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000868.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000855.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000809.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000810.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000832.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000880.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000884.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000874.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000793.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000839.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000842.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000791.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000801.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000885.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000875.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000844.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000826.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000863.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000858.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000799.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000854.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000887.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000866.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000856.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000848.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000797.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000841.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000792.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000811.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000803.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000807.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000847.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000871.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000859.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000878.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000813.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000802.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000789.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000823.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000857.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000805.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000865.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000879.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000814.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000824.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000817.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000835.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000796.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000846.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000849.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000870.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000869.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000836.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000804.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000822.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000834.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000872.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000890.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000888.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000812.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000828.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000873.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000861.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000821.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000886.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000827.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000840.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000850.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000877.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000825.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000829.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000833.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000798.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000794.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000852.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000862.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000883.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000845.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000816.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000788.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000820.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000815.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000831.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000806.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000882.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000843.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000819.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000837.png
+- Assets/Resources/TestetPhoto/ushtro/edukate qytetare/000876.png
+Dependencies: []

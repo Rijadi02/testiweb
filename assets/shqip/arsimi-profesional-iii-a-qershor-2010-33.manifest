@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 311279446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13cad6100279f4d1b7c1d9f802aa092c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000779.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000778.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000769.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000772.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000765.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000773.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000777.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000762.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000766.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000776.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000774.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000771.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000764.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000781.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000768.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000767.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000770.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000763.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000775.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Arsimi-Profesional-III-A-Qershor-2010-33/000780.jpg
+Dependencies: []

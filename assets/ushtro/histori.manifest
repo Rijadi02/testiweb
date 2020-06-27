@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 786916784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45f19f2e96bdc5556fbf2e3a7def66a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/ushtro/Histori/000499.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000514.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000486.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000508.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000464.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000495.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000541.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000544.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000483.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000455.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000473.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000524.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000468.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000525.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000515.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000540.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000503.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000519.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000459.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000527.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000494.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000520.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000456.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000518.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000548.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000549.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000509.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000484.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000537.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000531.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000523.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000491.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000465.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000475.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000532.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000470.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000493.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000535.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000485.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000500.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000488.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000481.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000477.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000550.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000542.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000528.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000536.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000505.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000539.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000502.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000516.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000522.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000498.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000469.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000474.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000534.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000487.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000472.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000517.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000482.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000552.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000460.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000454.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000521.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000457.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000545.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000462.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000496.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000512.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000529.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000546.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000479.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000453.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000504.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000463.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000510.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000467.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000526.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000543.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000476.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000551.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000547.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000533.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000480.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000553.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000471.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000458.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000461.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000530.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000538.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000507.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000506.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000466.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000490.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000501.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000478.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000492.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000489.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000511.png
+- Assets/Resources/TestetPhoto/ushtro/Histori/000513.png
+Dependencies: []

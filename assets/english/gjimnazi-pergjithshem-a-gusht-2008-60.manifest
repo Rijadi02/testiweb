@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1214862427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1699b694f52ce6a20e63facc8c3e3d56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000179.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000174.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000173.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000175.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000183.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000178.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000176.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000165.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000169.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000181.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000180.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000170.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000167.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000177.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000164.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000182.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000166.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000172.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000168.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Gusht-2008-60/000171.jpg
+Dependencies: []

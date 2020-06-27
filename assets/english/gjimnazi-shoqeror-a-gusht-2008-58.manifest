@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2243702350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb0e9b1719c6f69514ff926238f2de16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000039.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000034.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000041.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000031.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000032.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000037.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000042.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000036.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000035.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000038.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000040.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000044.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000043.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000033.jpg
+- Assets/Resources/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Shoqeror-A-Gusht-2008-58/000045.jpg
+Dependencies: []
