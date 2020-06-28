@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4162334634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81e031e341cc29a7e0fe13649e455714
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000988.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000985.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000991.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000983.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000986.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000987.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000984.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000982.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000990.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Gjimnazi-Gjuhesor-A-Qershor-2012/000989.jpg
+Dependencies: []

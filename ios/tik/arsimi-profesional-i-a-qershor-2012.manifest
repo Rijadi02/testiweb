@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 561002744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bae1126baa364d956e51f0c5dc8aa07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000118.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000120.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000122.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000123.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000116.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000126.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000117.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000124.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000115.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000119.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000125.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000114.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2012/Arsimi-Profesional-I-A-Qershor-2012/000121.png
+Dependencies: []

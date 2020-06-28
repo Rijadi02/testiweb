@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 973402855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c31fff988c3781646247aa4c66e84f39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000238.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000248.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000242.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000233.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000253.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000243.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000246.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000245.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000235.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000241.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000234.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000237.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000250.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000251.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000247.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000249.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000252.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000240.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000244.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Arsimi-Profesional-B-Gusht-2008/000239.jpg
+Dependencies: []

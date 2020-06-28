@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3234776481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 728e2f11bc19928b30c147614260796e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000038.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000041.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000035.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000036.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000040.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000034.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000039.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000037.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-II-A-Gusht-2009/000043.png
+Dependencies: []

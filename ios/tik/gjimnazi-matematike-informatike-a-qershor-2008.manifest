@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1011224508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fce8469fb643ad31aa6b3fc4c69d4746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000588.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000592.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000590.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000596.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000591.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000593.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000594.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000595.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000589.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-A-Qershor-2008/000597.jpg
+Dependencies: []

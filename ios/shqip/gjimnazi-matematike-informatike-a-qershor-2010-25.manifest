@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1642671388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3240f63799f1cbaced515327f4abb53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000806.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000821.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000811.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000810.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000823.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000809.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000819.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000822.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000807.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000805.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000816.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000824.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000812.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000813.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000814.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000808.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000815.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000818.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000817.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2010/Gjimnazi-Matematike-Informatike-A-Qershor-2010-25/000820.jpg
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3948146257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aec6d599ad210fb6c312a8fa3a824e43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000567.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000564.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000560.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000559.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000563.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000562.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000566.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000565.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000561.jpg
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2008/Gjimnazi-Matematike-Informatike-B-Gusht-2008/000558.jpg
+Dependencies: []

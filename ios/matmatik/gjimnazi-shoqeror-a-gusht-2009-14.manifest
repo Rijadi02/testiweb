@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3618209906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88770f448f046451e94a63d97d9c45ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2cc3ac1bf2df5d6fac8fdddb3e52ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/59.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000393.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000395.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000391.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000385.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000394.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000399.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000398.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000386.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/61.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000397.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000388.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/51.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000392.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/66.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000383.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/56.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000400.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000384.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000390.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000389.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/62.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/63.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000401.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000396.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/65.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000387.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/z/pikat.txt
+- Assets/TestetPhoto/photos of tests-math/math/2009/Gjimnazi-Shoqeror-A-Gusht-2009-14/000402.jpg
+Dependencies: []

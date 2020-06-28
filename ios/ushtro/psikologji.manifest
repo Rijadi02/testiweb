@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 818911777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe810058b1af99a4e55d1021713350ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/ushtro/psikologji/000909.png
+- Assets/TestetPhoto/ushtro/psikologji/000910.png
+- Assets/TestetPhoto/ushtro/psikologji/000931.png
+- Assets/TestetPhoto/ushtro/psikologji/000891.png
+- Assets/TestetPhoto/ushtro/psikologji/000934.png
+- Assets/TestetPhoto/ushtro/psikologji/000925.png
+- Assets/TestetPhoto/ushtro/psikologji/000923.png
+- Assets/TestetPhoto/ushtro/psikologji/000899.png
+- Assets/TestetPhoto/ushtro/psikologji/000928.png
+- Assets/TestetPhoto/ushtro/psikologji/000904.png
+- Assets/TestetPhoto/ushtro/psikologji/000897.png
+- Assets/TestetPhoto/ushtro/psikologji/000902.png
+- Assets/TestetPhoto/ushtro/psikologji/000911.png
+- Assets/TestetPhoto/ushtro/psikologji/000915.png
+- Assets/TestetPhoto/ushtro/psikologji/000927.png
+- Assets/TestetPhoto/ushtro/psikologji/000929.png
+- Assets/TestetPhoto/ushtro/psikologji/000894.png
+- Assets/TestetPhoto/ushtro/psikologji/000922.png
+- Assets/TestetPhoto/ushtro/psikologji/000893.png
+- Assets/TestetPhoto/ushtro/psikologji/000924.png
+- Assets/TestetPhoto/ushtro/psikologji/000921.png
+- Assets/TestetPhoto/ushtro/psikologji/000905.png
+- Assets/TestetPhoto/ushtro/psikologji/000916.png
+- Assets/TestetPhoto/ushtro/psikologji/000908.png
+- Assets/TestetPhoto/ushtro/psikologji/000919.png
+- Assets/TestetPhoto/ushtro/psikologji/000933.png
+- Assets/TestetPhoto/ushtro/psikologji/000926.png
+- Assets/TestetPhoto/ushtro/psikologji/000903.png
+- Assets/TestetPhoto/ushtro/psikologji/000935.png
+- Assets/TestetPhoto/ushtro/psikologji/000932.png
+- Assets/TestetPhoto/ushtro/psikologji/000914.png
+- Assets/TestetPhoto/ushtro/psikologji/000906.png
+- Assets/TestetPhoto/ushtro/psikologji/000907.png
+- Assets/TestetPhoto/ushtro/psikologji/000901.png
+- Assets/TestetPhoto/ushtro/psikologji/000895.png
+- Assets/TestetPhoto/ushtro/psikologji/000898.png
+- Assets/TestetPhoto/ushtro/psikologji/000920.png
+- Assets/TestetPhoto/ushtro/psikologji/000930.png
+- Assets/TestetPhoto/ushtro/psikologji/000900.png
+- Assets/TestetPhoto/ushtro/psikologji/000892.png
+Dependencies: []

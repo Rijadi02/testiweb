@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 2679150357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01e7f161cbc2f6174d4339e8017d5158
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001099.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001117.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001108.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001120.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001109.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001081.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001114.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001089.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001091.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001110.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001097.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001086.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001093.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001128.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001080.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001106.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001076.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001095.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001131.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001105.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001125.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001085.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001094.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001119.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001084.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001132.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001090.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001133.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001082.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001123.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001118.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001102.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001107.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001113.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001127.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001103.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001130.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001100.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001078.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001104.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001075.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001083.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001077.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001116.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001087.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001134.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001126.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001096.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001129.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001101.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001112.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001122.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001111.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001121.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001098.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001124.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001088.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001115.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001092.jpg
+- Assets/TestetPhoto/Gjuhe Shqipe/photos of tests-shqip/shqip/2012/Lendet-e-Pergjithshme-B-Qershor-2012-22/001079.jpg
+Dependencies: []

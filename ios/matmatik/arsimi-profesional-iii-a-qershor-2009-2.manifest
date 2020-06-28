@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3982542836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b16b4c87b74c9529f09e69d5b73d2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000046.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000043.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000041.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000036.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000037.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000033.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000032.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000040.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000048.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000031.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000049.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000047.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000034.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000042.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000038.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000039.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000044.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000045.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000035.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Qershor-2009-2/000030.jpg
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1607845228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5eaf73e8b336713a5e868f26760bc96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000120.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000117.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000107.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000123.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000118.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000116.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000105.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000119.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000121.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000122.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000106.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000112.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000108.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000111.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000110.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000113.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000114.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000104.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000109.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Pergjithshem-A-Qershor-2010-32/000115.jpg
+Dependencies: []

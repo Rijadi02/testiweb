@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1841450511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03da3d9b6e4a84af6437bc94d71b8f2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000145.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000157.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000149.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000160.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000155.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000151.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000153.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000158.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000161.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000154.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000150.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000147.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000159.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000162.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000146.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000144.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000163.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000152.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000148.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Pergjithshem-A-Qershor-2008-51/000156.jpg
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2894899565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3d5804c16131bdde246621a425c1e0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000073.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000074.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000080.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000079.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000075.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000078.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000076.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2009/Arsimi-Profesional-III-A-Gusht-2009/000077.png
+Dependencies: []

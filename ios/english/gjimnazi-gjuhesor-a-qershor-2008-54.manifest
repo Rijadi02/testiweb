@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1942208045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9344d1cd9b2f37ae78e185eeb7f3d8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000014.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000020.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000021.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000030.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000017.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000011.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000015.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000024.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000027.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000028.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000026.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000025.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000018.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000013.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000016.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000029.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000019.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000023.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000022.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2008/Gjimnazi-Gjuhesor-A-Qershor-2008-54/000012.jpg
+Dependencies: []

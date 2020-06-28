@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1464778947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38bc80f146c312e9a8f6a4f9ba6e9739
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000079.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000068.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000070.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000067.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000081.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000078.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000082.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000064.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000069.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000072.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000077.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000083.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000065.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000071.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000076.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000074.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000075.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000073.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000080.jpg
+- Assets/TestetPhoto/Gjuhe Angleze/2010/Gjimnazi-Shoqeror-Gjuhesor-A-Qershor-2010-29/000066.jpg
+Dependencies: []

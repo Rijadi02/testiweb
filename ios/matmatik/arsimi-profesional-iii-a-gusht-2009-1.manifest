@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1193530340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b51cde46d709e5db274918a13962233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000020.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000007.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000011.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000026.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000008.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000017.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000009.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000010.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000012.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000022.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000021.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000025.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000016.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000014.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000019.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000024.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000015.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000013.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000018.jpg
+- Assets/TestetPhoto/photos of tests-math/math/2009/Arsimi-Profesional-III-A-Gusht-2009-1/000023.jpg
+Dependencies: []

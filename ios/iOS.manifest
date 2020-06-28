@@ -1,0 +1,472 @@
+ManifestFileVersion: 0
+CRC: 102472049
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: english/gjimnazi-gjuhesor-a-qershor-2008-54
+      Dependencies: {}
+    Info_1:
+      Name: english/gjimnazi-pergjithshem-a-gusht-2008-60
+      Dependencies: {}
+    Info_2:
+      Name: english/gjimnazi-pergjithshem-a-qershor-2008-51
+      Dependencies: {}
+    Info_3:
+      Name: english/gjimnazi-pergjithshem-b-gusht-2008-61
+      Dependencies: {}
+    Info_4:
+      Name: english/gjimnazi-shoqeror-a-gusht-2008-58
+      Dependencies: {}
+    Info_5:
+      Name: english/gjimnazi-shoqeror-b-gusht-2008-49
+      Dependencies: {}
+    Info_6:
+      Name: english/gjimnazi-pergjithshem-a-qershor-2010-32
+      Dependencies: {}
+    Info_7:
+      Name: english/gjimnazi-pergjithshem-b-qershor-2010-27
+      Dependencies: {}
+    Info_8:
+      Name: english/gjimnazi-shoqeror-gjuhesor-a-qershor-2010-29
+      Dependencies: {}
+    Info_9:
+      Name: english/gjimnazi-shoqeror-gjuhesor-b-qershor-2010-36
+      Dependencies: {}
+    Info_10:
+      Name: shqip/arsimi-profesional-a-gusht-2008-39
+      Dependencies: {}
+    Info_11:
+      Name: shqip/arsimi-profesional-a-qershor-2008-59
+      Dependencies: {}
+    Info_12:
+      Name: shqip/arsimi-profesional-b-gusht-2008-40
+      Dependencies: {}
+    Info_13:
+      Name: shqip/arsimi-profesional-b-qershor-2008-37
+      Dependencies: {}
+    Info_14:
+      Name: shqip/gjimnazi-gjuhesor-a-gusht-2008-38
+      Dependencies: {}
+    Info_15:
+      Name: shqip/gjimnazi-gjuhesor-a-qershor-2008-54
+      Dependencies: {}
+    Info_16:
+      Name: shqip/gjimnazi-gjuhesor-b-gusht-2008
+      Dependencies: {}
+    Info_17:
+      Name: shqip/gjimnazi-gjuhesor-b-qershor-2008-48
+      Dependencies: {}
+    Info_18:
+      Name: shqip/gjimnazi-matematike-informatike-a-gusht-2008-50
+      Dependencies: {}
+    Info_19:
+      Name: shqip/gjimnazi-matematike-informatike-a-qershor-2008-57
+      Dependencies: {}
+    Info_20:
+      Name: shqip/gjimnazi-matematike-informatike-b-gusht-2008
+      Dependencies: {}
+    Info_21:
+      Name: shqip/gjimnazi-matematike-informatike-b-qershor-2008-47
+      Dependencies: {}
+    Info_22:
+      Name: shqip/gjimnazi-natyror-a-gusht-2008-56
+      Dependencies: {}
+    Info_23:
+      Name: shqip/gjimnazi-natyror-a-qershor-2008-53
+      Dependencies: {}
+    Info_24:
+      Name: shqip/gjimnazi-natyror-b-gusht-2008-55
+      Dependencies: {}
+    Info_25:
+      Name: shqip/gjimnazi-natyror-b-qershor-2008-41
+      Dependencies: {}
+    Info_26:
+      Name: shqip/gjimnazi-pergjithshem-a-gusht-2008-60
+      Dependencies: {}
+    Info_27:
+      Name: shqip/gjimnazi-pergjithshem-a-qershor-2008-51
+      Dependencies: {}
+    Info_28:
+      Name: shqip/gjimnazi-pergjithshem-b-gusht-2008-61
+      Dependencies: {}
+    Info_29:
+      Name: shqip/gjimnazi-shoqeror-a-gusht-2008-58
+      Dependencies: {}
+    Info_30:
+      Name: shqip/gjimnazi-shoqeror-a-qershor-2008-52
+      Dependencies: {}
+    Info_31:
+      Name: shqip/gjimnazi-shoqeror-b-gusht-2008-49
+      Dependencies: {}
+    Info_32:
+      Name: shqip/arsimi-profesional-i-a-qershor-2009-8
+      Dependencies: {}
+    Info_33:
+      Name: shqip/arsimi-profesional-i-b-qershor-2009-6
+      Dependencies: {}
+    Info_34:
+      Name: shqip/arsimi-profesional-ii-a-gusht-2009-4
+      Dependencies: {}
+    Info_35:
+      Name: shqip/arsimi-profesional-ii-a-qershor-2009-7
+      Dependencies: {}
+    Info_36:
+      Name: shqip/arsimi-profesional-ii-b-gusht-2009-5
+      Dependencies: {}
+    Info_37:
+      Name: shqip/arsimi-profesional-ii-b-qershor-2009-3
+      Dependencies: {}
+    Info_38:
+      Name: shqip/arsimi-profesional-iii-a-gusht-2009-1
+      Dependencies: {}
+    Info_39:
+      Name: shqip/arsimi-profesional-iii-a-qershor-2009-2
+      Dependencies: {}
+    Info_40:
+      Name: shqip/arsimi-profesional-iii-b-gusht-2009-10
+      Dependencies: {}
+    Info_41:
+      Name: shqip/arsimi-profesional-iii-b-qershor-2009-9
+      Dependencies: {}
+    Info_42:
+      Name: shqip/gjimnazi-natyror-a-gusht-2009-17
+      Dependencies: {}
+    Info_43:
+      Name: shqip/gjimnazi-natyror-a-qershor-2009-15
+      Dependencies: {}
+    Info_44:
+      Name: shqip/gjimnazi-natyror-b-gusht-2009-11
+      Dependencies: {}
+    Info_45:
+      Name: shqip/gjimnazi-natyror-b-qershor-2009-16
+      Dependencies: {}
+    Info_46:
+      Name: shqip/gjimnazi-shoqeror-a-gusht-2009-14
+      Dependencies: {}
+    Info_47:
+      Name: shqip/gjimnazi-shoqeror-a-qershor-2009-18
+      Dependencies: {}
+    Info_48:
+      Name: shqip/gjimnazi-shoqeror-b-gusht-2009-13
+      Dependencies: {}
+    Info_49:
+      Name: shqip/gjimnazi-shoqeror-b-qershor-2009-12
+      Dependencies: {}
+    Info_50:
+      Name: shqip/arsimi-profesional-i-a-qershor-2010
+      Dependencies: {}
+    Info_51:
+      Name: shqip/arsimi-profesional-i-b-qershor-2010
+      Dependencies: {}
+    Info_52:
+      Name: shqip/arsimi-profesional-i-b-qershor-2010 (1)
+      Dependencies: {}
+    Info_53:
+      Name: shqip/arsimi-profesional-ii-a-qershor-2010
+      Dependencies: {}
+    Info_54:
+      Name: shqip/arsimi-profesional-ii-b-qershor-2010
+      Dependencies: {}
+    Info_55:
+      Name: shqip/arsimi-profesional-iii-a-qershor-2010-33
+      Dependencies: {}
+    Info_56:
+      Name: shqip/arsimi-profesional-iii-b-qershor-2010-34
+      Dependencies: {}
+    Info_57:
+      Name: shqip/gjimnazi-matematike-informatike-a-qershor-2010-25
+      Dependencies: {}
+    Info_58:
+      Name: shqip/gjimnazi-matematike-informatike-b-qershor-2010-24
+      Dependencies: {}
+    Info_59:
+      Name: shqip/gjimnazi-natyror-a-qershor-2010-31
+      Dependencies: {}
+    Info_60:
+      Name: shqip/gjimnazi-natyror-b-qershor-2010-35
+      Dependencies: {}
+    Info_61:
+      Name: shqip/gjimnazi-pergjithshem-a-qershor-2010-32
+      Dependencies: {}
+    Info_62:
+      Name: shqip/gjimnazi-pergjithshem-b-qershor-2010-27
+      Dependencies: {}
+    Info_63:
+      Name: shqip/gjimnazi-shoqeror-gjuhesor-a-qershor-2010-29
+      Dependencies: {}
+    Info_64:
+      Name: shqip/gjimnazi-shoqeror-gjuhesor-b-qershor-2010-36
+      Dependencies: {}
+    Info_65:
+      Name: shqip/gjimnazi-gjuhesor-a-qershor-2012
+      Dependencies: {}
+    Info_66:
+      Name: shqip/gjimnazi-gjuhesor-b-qershor-2012
+      Dependencies: {}
+    Info_67:
+      Name: shqip/lendet-e-pergjithshme-a-qershor-2012-23
+      Dependencies: {}
+    Info_68:
+      Name: shqip/lendet-e-pergjithshme-b-qershor-2012-22
+      Dependencies: {}
+    Info_69:
+      Name: matmatik/arsimi-profesional-a-gusht-2008-39
+      Dependencies: {}
+    Info_70:
+      Name: matmatik/arsimi-profesional-a-qershor-2008-59
+      Dependencies: {}
+    Info_71:
+      Name: matmatik/arsimi-profesional-b-gusht-2008-40
+      Dependencies: {}
+    Info_72:
+      Name: matmatik/arsimi-profesional-b-qershor-2008-37
+      Dependencies: {}
+    Info_73:
+      Name: matmatik/gjimnazi-gjuhesor-a-gusht-2008-38
+      Dependencies: {}
+    Info_74:
+      Name: matmatik/gjimnazi-gjuhesor-a-qershor-2008-54
+      Dependencies: {}
+    Info_75:
+      Name: matmatik/gjimnazi-gjuhesor-b-qershor-2008-48
+      Dependencies: {}
+    Info_76:
+      Name: matmatik/gjimnazi-matematike-informatike-a-gusht-2008-50
+      Dependencies: {}
+    Info_77:
+      Name: matmatik/gjimnazi-matematike-informatike-a-qershor-2008-57
+      Dependencies: {}
+    Info_78:
+      Name: matmatik/gjimnazi-matematike-informatike-b-qershor-2008-47
+      Dependencies: {}
+    Info_79:
+      Name: matmatik/gjimnazi-natyror-a-gusht-2008-56
+      Dependencies: {}
+    Info_80:
+      Name: matmatik/gjimnazi-natyror-a-qershor-2008-53
+      Dependencies: {}
+    Info_81:
+      Name: matmatik/gjimnazi-natyror-b-gusht-2008-55
+      Dependencies: {}
+    Info_82:
+      Name: matmatik/gjimnazi-natyror-b-qershor-2008-41
+      Dependencies: {}
+    Info_83:
+      Name: matmatik/gjimnazi-pergjithshem-a-gusht-2008-60
+      Dependencies: {}
+    Info_84:
+      Name: matmatik/gjimnazi-pergjithshem-a-qershor-2008-51
+      Dependencies: {}
+    Info_85:
+      Name: matmatik/gjimnazi-pergjithshem-b-gusht-2008-61
+      Dependencies: {}
+    Info_86:
+      Name: matmatik/gjimnazi-shoqeror-a-gusht-2008-58
+      Dependencies: {}
+    Info_87:
+      Name: matmatik/gjimnazi-shoqeror-a-qershor-2008-52
+      Dependencies: {}
+    Info_88:
+      Name: matmatik/gjimnazi-shoqeror-b-gusht-2008-49
+      Dependencies: {}
+    Info_89:
+      Name: matmatik/arsimi-profesional-i-a-qershor-2009-8
+      Dependencies: {}
+    Info_90:
+      Name: matmatik/arsimi-profesional-i-b-qershor-2009-6
+      Dependencies: {}
+    Info_91:
+      Name: matmatik/arsimi-profesional-ii-a-gusht-2009-4
+      Dependencies: {}
+    Info_92:
+      Name: matmatik/arsimi-profesional-ii-a-qershor-2009-7
+      Dependencies: {}
+    Info_93:
+      Name: matmatik/arsimi-profesional-ii-b-gusht-2009-5
+      Dependencies: {}
+    Info_94:
+      Name: matmatik/arsimi-profesional-ii-b-qershor-2009-3
+      Dependencies: {}
+    Info_95:
+      Name: matmatik/arsimi-profesional-iii-a-gusht-2009-1
+      Dependencies: {}
+    Info_96:
+      Name: matmatik/arsimi-profesional-iii-a-qershor-2009-2
+      Dependencies: {}
+    Info_97:
+      Name: matmatik/arsimi-profesional-iii-b-gusht-2009-10
+      Dependencies: {}
+    Info_98:
+      Name: matmatik/arsimi-profesional-iii-b-qershor-2009-9
+      Dependencies: {}
+    Info_99:
+      Name: matmatik/gjimnazi-natyror-a-gusht-2009-17
+      Dependencies: {}
+    Info_100:
+      Name: matmatik/gjimnazi-natyror-a-qershor-2009-15
+      Dependencies: {}
+    Info_101:
+      Name: matmatik/gjimnazi-natyror-b-gusht-2009-11
+      Dependencies: {}
+    Info_102:
+      Name: matmatik/gjimnazi-natyror-b-qershor-2009-16
+      Dependencies: {}
+    Info_103:
+      Name: matmatik/gjimnazi-shoqeror-a-gusht-2009-14
+      Dependencies: {}
+    Info_104:
+      Name: matmatik/gjimnazi-shoqeror-a-qershor-2009-18
+      Dependencies: {}
+    Info_105:
+      Name: matmatik/gjimnazi-shoqeror-b-gusht-2009-13
+      Dependencies: {}
+    Info_106:
+      Name: matmatik/gjimnazi-shoqeror-b-qershor-2009-12
+      Dependencies: {}
+    Info_107:
+      Name: matmatik/arsimi-profesional-iii-a-qershor-2010-33
+      Dependencies: {}
+    Info_108:
+      Name: matmatik/arsimi-profesional-iii-b-qershor-2010-34
+      Dependencies: {}
+    Info_109:
+      Name: matmatik/gjimnazi-matematike-informatike-a-qershor-2010-25
+      Dependencies: {}
+    Info_110:
+      Name: matmatik/gjimnazi-matematike-informatike-b-qershor-2010-24
+      Dependencies: {}
+    Info_111:
+      Name: matmatik/gjimnazi-natyror-a-qershor-2010-31
+      Dependencies: {}
+    Info_112:
+      Name: matmatik/gjimnazi-natyror-b-qershor-2010-35
+      Dependencies: {}
+    Info_113:
+      Name: matmatik/gjimnazi-pergjithshem-a-qershor-2010-32
+      Dependencies: {}
+    Info_114:
+      Name: matmatik/gjimnazi-pergjithshem-b-qershor-2010-27
+      Dependencies: {}
+    Info_115:
+      Name: matmatik/gjimnazi-shoqeror-gjuhesor-a-qershor-2010-29
+      Dependencies: {}
+    Info_116:
+      Name: matmatik/gjimnazi-shoqeror-gjuhesor-b-qershor-2010-36
+      Dependencies: {}
+    Info_117:
+      Name: matmatik/arsimi-profesional-ii-a-qershor-2012-20
+      Dependencies: {}
+    Info_118:
+      Name: matmatik/arsimi-profesional-ii-b-qershor-2012-19
+      Dependencies: {}
+    Info_119:
+      Name: matmatik/gjimnazi-matematike-informatike-a-qershor-2012-26
+      Dependencies: {}
+    Info_120:
+      Name: matmatik/gjimnazi-natyror-a-qershor-2012-21
+      Dependencies: {}
+    Info_121:
+      Name: matmatik/gjimnazi-natyror-b-qershor-2012-28
+      Dependencies: {}
+    Info_122:
+      Name: matmatik/lendet-e-pergjithshme-a-qershor-2012-23
+      Dependencies: {}
+    Info_123:
+      Name: matmatik/lendet-e-pergjithshme-b-qershor-2012-22
+      Dependencies: {}
+    Info_124:
+      Name: tik/arsimi-profesional-a-gusht-2008
+      Dependencies: {}
+    Info_125:
+      Name: tik/arsimi-profesional-a-qershor-2008
+      Dependencies: {}
+    Info_126:
+      Name: tik/arsimi-profesional-b-gusht-2008
+      Dependencies: {}
+    Info_127:
+      Name: tik/arsimi-profesional-b-qershor-2008
+      Dependencies: {}
+    Info_128:
+      Name: tik/gjimnazi-matematike-informatike-a-gusht-2008
+      Dependencies: {}
+    Info_129:
+      Name: tik/gjimnazi-matematike-informatike-a-qershor-2008
+      Dependencies: {}
+    Info_130:
+      Name: tik/gjimnazi-matematike-informatike-b-gusht-2008
+      Dependencies: {}
+    Info_131:
+      Name: tik/gjimnazi-matematike-informatike-b-qershor-2008
+      Dependencies: {}
+    Info_132:
+      Name: tik/arsimi-profesional-i-a-qershor-2009
+      Dependencies: {}
+    Info_133:
+      Name: tik/arsimi-profesional-i-b-qershor-2009
+      Dependencies: {}
+    Info_134:
+      Name: tik/arsimi-profesional-ii-a-gusht-2009
+      Dependencies: {}
+    Info_135:
+      Name: tik/arsimi-profesional-ii-a-qershor-2009
+      Dependencies: {}
+    Info_136:
+      Name: tik/arsimi-profesional-ii-b-gusht-2009
+      Dependencies: {}
+    Info_137:
+      Name: tik/arsimi-profesional-ii-b-qershor-2009
+      Dependencies: {}
+    Info_138:
+      Name: tik/arsimi-profesional-iii-a-gusht-2009
+      Dependencies: {}
+    Info_139:
+      Name: tik/arsimi-profesional-ii-a-qershor-2010
+      Dependencies: {}
+    Info_140:
+      Name: tik/arsimi-profesional-ii-b-qershor-2010
+      Dependencies: {}
+    Info_141:
+      Name: tik/arsimi-profesional-i-a-qershor-2012
+      Dependencies: {}
+    Info_142:
+      Name: tik/arsimi-profesional-i-b-qershor-2012
+      Dependencies: {}
+    Info_143:
+      Name: ushtro/anglisht
+      Dependencies: {}
+    Info_144:
+      Name: ushtro/biologji
+      Dependencies: {}
+    Info_145:
+      Name: ushtro/edukate qytetare
+      Dependencies: {}
+    Info_146:
+      Name: ushtro/ekonomi
+      Dependencies: {}
+    Info_147:
+      Name: ushtro/fizike
+      Dependencies: {}
+    Info_148:
+      Name: ushtro/gjeografi
+      Dependencies: {}
+    Info_149:
+      Name: ushtro/histori
+      Dependencies: {}
+    Info_150:
+      Name: ushtro/informatike
+      Dependencies: {}
+    Info_151:
+      Name: ushtro/kimi
+      Dependencies: {}
+    Info_152:
+      Name: ushtro/matematik
+      Dependencies: {}
+    Info_153:
+      Name: ushtro/psikologji
+      Dependencies: {}
+    Info_154:
+      Name: ushtro/shqip
+      Dependencies: {}
+    Info_155:
+      Name: ushtro/sociologji
+      Dependencies: {}

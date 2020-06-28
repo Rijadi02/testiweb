@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1366613389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92dfa2725d8f30c0561c192cbada490c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000107.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000096.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000104.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000097.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000102.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000098.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000108.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000112.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000109.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000101.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000110.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000103.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000113.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000105.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000100.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000106.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000111.png
+- Assets/TestetPhoto/tik/tik/photos of tests-tik/tik/2010/Arsimi-Profesional-II-B-Qershor-2010/000099.png
+Dependencies: []

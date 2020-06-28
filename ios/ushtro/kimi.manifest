@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 2096204714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a472375242cfce300cd9d212713b9c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestetPhoto/ushtro/kimi/001552.png
+- Assets/TestetPhoto/ushtro/kimi/001576.png
+- Assets/TestetPhoto/ushtro/kimi/001515.png
+- Assets/TestetPhoto/ushtro/kimi/001589.png
+- Assets/TestetPhoto/ushtro/kimi/001560.png
+- Assets/TestetPhoto/ushtro/kimi/001551.png
+- Assets/TestetPhoto/ushtro/kimi/001514.png
+- Assets/TestetPhoto/ushtro/kimi/001510.png
+- Assets/TestetPhoto/ushtro/kimi/001601.png
+- Assets/TestetPhoto/ushtro/kimi/001605.png
+- Assets/TestetPhoto/ushtro/kimi/001580.png
+- Assets/TestetPhoto/ushtro/kimi/001563.png
+- Assets/TestetPhoto/ushtro/kimi/001549.png
+- Assets/TestetPhoto/ushtro/kimi/001604.png
+- Assets/TestetPhoto/ushtro/kimi/001517.png
+- Assets/TestetPhoto/ushtro/kimi/001528.png
+- Assets/TestetPhoto/ushtro/kimi/001573.png
+- Assets/TestetPhoto/ushtro/kimi/001557.png
+- Assets/TestetPhoto/ushtro/kimi/001508.png
+- Assets/TestetPhoto/ushtro/kimi/001569.png
+- Assets/TestetPhoto/ushtro/kimi/001588.png
+- Assets/TestetPhoto/ushtro/kimi/001538.png
+- Assets/TestetPhoto/ushtro/kimi/001579.png
+- Assets/TestetPhoto/ushtro/kimi/001540.png
+- Assets/TestetPhoto/ushtro/kimi/001609.png
+- Assets/TestetPhoto/ushtro/kimi/001535.png
+- Assets/TestetPhoto/ushtro/kimi/001566.png
+- Assets/TestetPhoto/ushtro/kimi/001603.png
+- Assets/TestetPhoto/ushtro/kimi/001553.png
+- Assets/TestetPhoto/ushtro/kimi/001570.png
+- Assets/TestetPhoto/ushtro/kimi/001594.png
+- Assets/TestetPhoto/ushtro/kimi/001505.png
+- Assets/TestetPhoto/ushtro/kimi/001529.png
+- Assets/TestetPhoto/ushtro/kimi/001532.png
+- Assets/TestetPhoto/ushtro/kimi/001610.png
+- Assets/TestetPhoto/ushtro/kimi/001574.png
+- Assets/TestetPhoto/ushtro/kimi/001503.png
+- Assets/TestetPhoto/ushtro/kimi/001533.png
+- Assets/TestetPhoto/ushtro/kimi/001596.png
+- Assets/TestetPhoto/ushtro/kimi/001516.png
+- Assets/TestetPhoto/ushtro/kimi/001578.png
+- Assets/TestetPhoto/ushtro/kimi/001550.png
+- Assets/TestetPhoto/ushtro/kimi/001567.png
+- Assets/TestetPhoto/ushtro/kimi/001564.png
+- Assets/TestetPhoto/ushtro/kimi/001542.png
+- Assets/TestetPhoto/ushtro/kimi/001554.png
+- Assets/TestetPhoto/ushtro/kimi/001600.png
+- Assets/TestetPhoto/ushtro/kimi/001548.png
+- Assets/TestetPhoto/ushtro/kimi/001544.png
+- Assets/TestetPhoto/ushtro/kimi/001556.png
+- Assets/TestetPhoto/ushtro/kimi/001501.png
+- Assets/TestetPhoto/ushtro/kimi/001558.png
+- Assets/TestetPhoto/ushtro/kimi/001541.png
+- Assets/TestetPhoto/ushtro/kimi/001539.png
+- Assets/TestetPhoto/ushtro/kimi/001513.png
+- Assets/TestetPhoto/ushtro/kimi/001587.png
+- Assets/TestetPhoto/ushtro/kimi/001537.png
+- Assets/TestetPhoto/ushtro/kimi/001547.png
+- Assets/TestetPhoto/ushtro/kimi/001595.png
+- Assets/TestetPhoto/ushtro/kimi/001519.png
+- Assets/TestetPhoto/ushtro/kimi/001590.png
+- Assets/TestetPhoto/ushtro/kimi/001512.png
+- Assets/TestetPhoto/ushtro/kimi/001524.png
+- Assets/TestetPhoto/ushtro/kimi/001582.png
+- Assets/TestetPhoto/ushtro/kimi/001506.png
+- Assets/TestetPhoto/ushtro/kimi/001518.png
+- Assets/TestetPhoto/ushtro/kimi/001500.png
+- Assets/TestetPhoto/ushtro/kimi/001608.png
+- Assets/TestetPhoto/ushtro/kimi/001581.png
+- Assets/TestetPhoto/ushtro/kimi/001525.png
+- Assets/TestetPhoto/ushtro/kimi/001597.png
+- Assets/TestetPhoto/ushtro/kimi/001555.png
+- Assets/TestetPhoto/ushtro/kimi/001584.png
+- Assets/TestetPhoto/ushtro/kimi/001504.png
+- Assets/TestetPhoto/ushtro/kimi/001562.png
+- Assets/TestetPhoto/ushtro/kimi/001607.png
+- Assets/TestetPhoto/ushtro/kimi/001577.png
+- Assets/TestetPhoto/ushtro/kimi/001545.png
+- Assets/TestetPhoto/ushtro/kimi/001571.png
+- Assets/TestetPhoto/ushtro/kimi/001543.png
+- Assets/TestetPhoto/ushtro/kimi/001565.png
+- Assets/TestetPhoto/ushtro/kimi/001586.png
+- Assets/TestetPhoto/ushtro/kimi/001534.png
+- Assets/TestetPhoto/ushtro/kimi/001585.png
+- Assets/TestetPhoto/ushtro/kimi/001575.png
+- Assets/TestetPhoto/ushtro/kimi/001568.png
+- Assets/TestetPhoto/ushtro/kimi/001572.png
+- Assets/TestetPhoto/ushtro/kimi/001546.png
+- Assets/TestetPhoto/ushtro/kimi/001527.png
+- Assets/TestetPhoto/ushtro/kimi/001602.png
+- Assets/TestetPhoto/ushtro/kimi/001511.png
+- Assets/TestetPhoto/ushtro/kimi/001591.png
+- Assets/TestetPhoto/ushtro/kimi/001606.png
+- Assets/TestetPhoto/ushtro/kimi/001592.png
+- Assets/TestetPhoto/ushtro/kimi/001561.png
+- Assets/TestetPhoto/ushtro/kimi/001509.png
+- Assets/TestetPhoto/ushtro/kimi/001520.png
+- Assets/TestetPhoto/ushtro/kimi/001559.png
+- Assets/TestetPhoto/ushtro/kimi/001530.png
+- Assets/TestetPhoto/ushtro/kimi/001502.png
+Dependencies: []
